@@ -58,6 +58,7 @@
 			<version>3.6.0</version>
 		</dependency>
 
+		<!--	날짜 포맷 bootstrap	-->
 		<dependency>
 			<groupId>org.webjars</groupId>
 			<artifactId>bootstrap-datepicker</artifactId>
